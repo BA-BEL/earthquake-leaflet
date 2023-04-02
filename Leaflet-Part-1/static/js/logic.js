@@ -59,8 +59,8 @@ legend.onAdd = function(){
     div.innerHTML += '<h3 style = "background:red">90+</h3>';
     div.innerHTML += '<h3 style = "background:orange">70-90</h3>';
     div.innerHTML += '<h3 style = "background:yellow">50-70</h3>';
-    div.innerHTML += '<h3 style = "background:lightgreen">30-50</h3>';
-    div.innerHTML += '<h3 style = "background:green">10-30</h3>';
+    div.innerHTML += '<h3 style = "background:green">30-50</h3>';
+    div.innerHTML += '<h3 style = "background:lightgreen">10-30</h3>';
     div.innerHTML += '<h3 style = "background:lightblue">10-</h3>';
     return div;
 }
