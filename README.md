@@ -1,6 +1,11 @@
-# leaflet-challenge
+# Earthquake Visualization
 Module 15 Challenge
 
-index.html can be found in `Leaflet-Part-1/index.html`
+This exercise involves visualizing earthquake data faciliated through leaflet.js.
 
-javascript and css files can be found in the `Leaflet-Part-1/static` directory
+
+---
+
+index.html can be found in root directory.
+
+javascript and css files can be found in the `static` directory
